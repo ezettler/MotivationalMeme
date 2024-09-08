@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+}
+
+#h1 {
+    text-transform: uppercase;   
+}
+
+.white-text {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+#beach {
+    border: 5px solid white;
+    width: 100%;
+}
+
+#divbody {
+        width: 50%;
+        margin-left: 25%;
+        padding-top: 20px;
+}
